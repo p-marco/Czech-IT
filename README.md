@@ -1,2 +1,2 @@
-# CzechIT-
-Initial repository of CzechIT!
+# CzechIT!
+A linguistic corpus of Czech native learners acquiring Italian language.
