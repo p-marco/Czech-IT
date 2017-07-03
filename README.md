@@ -17,3 +17,6 @@ Data is marked and annotated with NLP tools running in the Python environment.
 
 ## Timeline
 The project starts from July, 2017 and does not have an upper limit of time, so please check the news to stay tuned.
+
+## Usage
+The corpus itself will be released as soon as possible in open file format with a CC0 license. 
