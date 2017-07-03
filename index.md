@@ -1,6 +1,9 @@
 ---
 title: CzechIT! - A linguistic corpus of Czech learners acquiring Italian
 layout: splash
+classes:
+  - landing
+  - dark-theme
 ---
 # CzechIT!
 A linguistic corpus of Czech native learners acquiring Italian language.
