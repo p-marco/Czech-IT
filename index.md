@@ -1,11 +1,8 @@
 ---
 title: CzechIT! - A linguistic corpus of Czech learners acquiring Italian
 ---
-# CzechIT!
-A linguistic corpus of Czech native learners acquiring Italian language.
-
 ## Browse
-Browse the text [here](texts).
+Browse the texts [here](texts).
 
 ## Aims
 Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints than from theoretical and general perspectives. 
